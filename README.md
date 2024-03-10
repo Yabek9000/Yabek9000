@@ -6,8 +6,6 @@
 
 <h3 align="center">A developer</h3>
 
-<br/>
-
 <div align="center">
  🌱 I want to improve on: **C#**, **C**, **Python**
 
