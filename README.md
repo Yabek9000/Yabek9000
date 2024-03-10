@@ -1,22 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yabek9000.Yabek9000" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yabek9000;" />
+    <img alt="Typing animation of Yabek9000" src= "http://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FF5656&background=FF499400&random=false&width=200&lines=Yabek9000;"/>
 </h1>
 
-<h3 align="center">A developer</h3>
+<h2 align="center"> Favourite manga panel </h2>
+<h1 align="center" alt="Ajin Manga panel"> <img src="https://www.animenewsnetwork.com/images/cms/house-of-1000-manga/76005/ajin5.jpg" width="1000"  height="550" />
 
-<div align="center">
- 🌱 I want to improve on: **C#**, **C**, **Python**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-
- <hr/>
- 
 <h2 align="center">⚒️ Languages ⚒️</h2>
+<div align="center">
+ 🌱 Learning - <b>Python, C & C#</b> 🌳
+</div>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cs" /><br>
@@ -26,7 +21,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Yabek9000/Yabek9000/output/github-contribution-grid-snake.svg" />
   
@@ -34,3 +29,5 @@
 </div>
 
 <hr/>
+<h2 align="center"> Thank you for Looking! </h2>
+<h1 align="center" alt="Kokou no Hito Manga "> <img src="https://staticg.sportskeeda.com/editor/2023/06/16bbe-16859764135628-1920.jpg"/>
