@@ -4,8 +4,7 @@
     <img alt="Typing animation of Yabek9000" src= "http://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&pause=1000&color=FF5656&background=FF499400&random=false&width=200&lines=Yabek9000;"/>
 </h1>
 
-<h2 align="center"> Favourite manga panel </h2>
-<h1 align="center" alt="Ajin Manga panel"> <img src="https://www.animenewsnetwork.com/images/cms/house-of-1000-manga/76005/ajin5.jpg" width="1000"  height="550" />
+<h1 align="center" alt="Ajin Manga panel"> <img src="https://www.animenewsnetwork.com/images/cms/house-of-1000-manga/76005/ajin5.jpg" width="1000"  height="460" />
 
 
 <h2 align="center">⚒️ Languages ⚒️</h2>
