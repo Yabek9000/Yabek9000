@@ -1,4 +1,3 @@
-<h1 align="center" alt="Ajin Manga panel"> <img src="https://www.animenewsnetwork.com/images/cms/house-of-1000-manga/76005/ajin5.jpg" width="1000"  height="460" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yabek9000.Yabek9000" />
 
@@ -29,4 +28,4 @@
 
 <hr/>
 <h2 align="center"> Thank you for Looking! </h2>
-<h1 align="center" alt="Kokou no Hito Manga "> <img src="https://staticg.sportskeeda.com/editor/2023/06/16bbe-16859764135628-1920.jpg"/>
+
