@@ -1,5 +1,5 @@
+```html
 <!DOCTYPE html>
-
 <html>
 <head>
 <title>Yabeks9000</title>
