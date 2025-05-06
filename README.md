@@ -1,7 +1,8 @@
-
-<h1>HEY</h1>
-<h2>I AM TASEEN</h2>
+## HEY
+### I AM TASEEN
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats-rho-three-25.vercel.app/api/top-langs/?username=Yabek9000&layout=compact&theme=dark")](https://github.com/Yabek9000/github-readme-stats)
+  <a href="https://github.com/Yabek9000/github-readme-stats">
+    <img src="https://github-readme-stats-rho-three-25.vercel.app/api/top-langs/?username=Yabek9000&layout=compact&theme=dark" />
+  </a>
 </p>
